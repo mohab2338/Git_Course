@@ -2,4 +2,4 @@
 first trial Git 
 
 
-##Project notes
+## Project notes
